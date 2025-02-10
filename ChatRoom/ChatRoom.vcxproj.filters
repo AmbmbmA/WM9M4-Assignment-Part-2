@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="WM9M4-Assignment-Part-2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="imgui_widgets.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
@@ -38,6 +35,12 @@
     </ClCompile>
     <ClCompile Include="imgui.cpp">
       <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatRoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="testchat.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
